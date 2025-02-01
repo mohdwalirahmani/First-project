@@ -4,7 +4,7 @@ This is my first Git Reprository.
 Author: Mohd Wali Rahmani
 
 
-SUMMARY OF HOW TO ADD FILE IN GITHUB (COMMANDS)
+SUMMARY OF HOW TO ADD FILE IN GITHUB (COMMANDS) <br>
 cd First-project <br>
 git status<br>
 git add .
